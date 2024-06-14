@@ -7,5 +7,6 @@ The code used to obtain this results is showed here. Three self-explained notebo
 Author: Germán Cano Amaro
 
 Thesis-Director: Alberto Guillén Perales
+
 Thesis-Co-director: Rubén López Coto
 
