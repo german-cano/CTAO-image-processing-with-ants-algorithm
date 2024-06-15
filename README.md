@@ -6,7 +6,7 @@ The code used to obtain this results is showed here. Three self-explained notebo
 
 Author: Germán Cano Amaro
 
-Thesis-Director: Alberto Guillén Perales
+Thesis-Director: Alberto Guillén Perales, Computer architecture and technology department, University of Granada
 
-Thesis-Co-director: Rubén López Coto
+Thesis-Co-director: Rubén López Coto, CTAO researcher at the Astronomical institute of Andalucia (IAA).
 
